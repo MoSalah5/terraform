@@ -1,4 +1,4 @@
 variable "myvar" {
-    type = "string"
+    type = string
     default = "hello terraform"
 }
